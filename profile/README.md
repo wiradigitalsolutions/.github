@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Ganti URL di dalam src="" dengan link gambar logo asli Anda -->
-  <img src="[https://via.placeholder.com/200x200.png?text=Logo+Wira+Digital](https://github.com/wiradigitalsolutions/.github/blob/eb22675592d4a233bc2007313f20b5469a71f1d6/profile/Wira%20Digital%20Solutions%20Logo.png)" alt="Logo Wira Digital Solutions" width="200" />
+  <img src="https://github.com/wiradigitalsolutions/.github/blob/eb22675592d4a233bc2007313f20b5469a71f1d6/profile/Wira%20Digital%20Solutions%20Logo.png" alt="Logo Wira Digital Solutions" width="200" />
 </div>
 
 # 🚀 Wira Digital Solutions
