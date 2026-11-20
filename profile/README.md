@@ -1,84 +1,106 @@
-<div align="center">
-  <!-- Ganti URL di dalam src="" dengan link gambar logo asli Anda -->
-  <img src="https://github.com/wiradigitalsolutions/.github/blob/eb22675592d4a233bc2007313f20b5469a71f1d6/profile/Wira%20Digital%20Solutions%20Logo.png" alt="Logo Wira Digital Solutions" width="200" />
+ <div align="center">
+  <img src="https://github.com/wiradigitalsolutions/.github/blob/eb22675592d4a233bc2007313f20b5469a71f1d6/profile/Wira%20Digital%20Solutions%20Logo.png" alt="Logo Wira Digital Solutions" width="180" />
+  
+  <h1>WIRA DIGITAL SOLUTIONS</h1>
+  <p><strong>Wujudkan Inovasi Raih Akselerasi</strong></p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,50:14243D,100:1E3A5F&height=3&section=header" width="100%" />
 </div>
-
-# 🚀 Wira Digital Solutions
-
-> **"Wujudkan Inovasi Raih Akselerasi"**
-
-Selamat datang di repositori profil resmi **Wira Digital Solutions**. Kami adalah perusahaan rintisan (startup) teknologi yang berdedikasi untuk membantu bisnis dan individu bertransformasi di era digital melalui solusi teknologi yang tepat guna, inovatif, dan terakselerasi.
 
 ## 🏢 Tentang Kami
 
-**Wira Digital Solutions** hadir sebagai mitra teknologi strategis Anda. Kami berfokus pada penyediaan layanan *end-to-end* di bidang Information Technology (IT), mulai dari tahap perencanaan, perancangan, pengembangan, hingga implementasi sistem. Kami percaya bahwa setiap ide hebat berhak mendapatkan teknologi terbaik untuk mewujudkannya.
+**Wira Digital Solutions** adalah perusahaan rintisan (startup) teknologi yang berdedikasi untuk membantu bisnis dan individu bertransformasi di era digital melalui solusi teknologi yang tepat guna, inovatif, dan terakselerasi.
+
+Kami hadir sebagai mitra teknologi strategis dengan fokus pada penyediaan layanan *end-to-end* di bidang Information Technology (IT), mulai dari tahap perencanaan, perancangan, pengembangan, hingga implementasi sistem.
+
+Kami percaya bahwa setiap ide hebat berhak mendapatkan teknologi terbaik untuk mewujudkannya.
+
+---
 
 ## 🛠️ Layanan Kami
 
-Kami menawarkan berbagai solusi digital yang dirancang khusus untuk memenuhi kebutuhan bisnis Anda:
+Kami menawarkan berbagai solusi digital yang dirancang khusus untuk memenuhi kebutuhan bisnis Anda.
 
-### 1. 🌐 Pembuatan Website
+### 01. 🌐 Website Development
 
-Kami mengembangkan berbagai jenis website yang responsif, modern, dan *user-friendly*, di antaranya:
+Mengembangkan website yang responsif, modern, dan *user-friendly* untuk mendukung pertumbuhan bisnis.
 
-* **Company Profile:** Tingkatkan kredibilitas bisnis Anda di dunia maya.
+- **Company Profile** — Meningkatkan kredibilitas dan profesionalitas bisnis di dunia digital.
+- **E-Commerce** — Solusi toko online yang aman dan terintegrasi.
+- **Custom Web Application** — Sistem informasi berbasis web seperti ERP, CRM, HRIS, dan solusi sesuai alur kerja perusahaan.
 
-* **E-Commerce:** Solusi toko online yang aman dan terintegrasi.
+### 02. 📱 Mobile Application Development
 
-* **Custom Web Application:** Sistem informasi berbasis web (ERP, CRM, HRIS, dll) yang disesuaikan dengan alur kerja perusahaan Anda.
+Membawa bisnis ke genggaman pelanggan melalui aplikasi mobile berkinerja tinggi.
 
-### 2. 📱 Pembuatan Aplikasi Mobile
+- Android Development
+- iOS Development
+- Cross-platform Development (Flutter / React Native)
 
-Bawa bisnis Anda ke genggaman pelanggan dengan aplikasi mobile berkinerja tinggi.
+### 03. 💡 IT Consulting
 
-* **Android Development**
+Membantu bisnis menentukan arah dan fondasi teknologi yang tepat melalui layanan konsultasi.
 
-* **iOS Development**
+- Digital Transformation Strategy
+- System Architecture & Database Design
+- Audit & Optimasi Keamanan Sistem IT
 
-* **Cross-platform Development** (Flutter / React Native)
+### 04. 🎨 UI/UX Design & Digital Branding
 
-### 3. 💡 Konsultan IT
+Merancang antarmuka (*User Interface*) yang estetis sekaligus menghadirkan pengalaman pengguna (*User Experience*) yang optimal agar produk digital lebih mudah digunakan dan disukai banyak orang.
 
-Jangan bingung dalam menentukan arsitektur teknologi Anda. Kami menyediakan jasa konsultasi untuk:
-
-* Digital Transformation Strategy
-
-* System Architecture & Database Design
-
-* Audit & Optimasi Keamanan Sistem IT
-
-### 4. 🎨 UI/UX Design & Branding Digital
-
-Kami merancang antarmuka (User Interface) yang estetis sekaligus memberikan pengalaman pengguna (User Experience) yang maksimal agar produk digital Anda disukai banyak orang.
+---
 
 ## ✨ Mengapa Memilih Kami?
 
-* **Inovatif:** Kami selalu mengikuti perkembangan teknologi terbaru untuk memberikan solusi yang relevan.
+| Keunggulan | Komitmen Kami |
+|:--|:--|
+| **Inovatif** | Mengikuti perkembangan teknologi terbaru untuk menghadirkan solusi yang relevan. |
+| **Akseleratif** | Proses pengerjaan yang lincah (*agile*) dan tepat waktu untuk mempercepat pertumbuhan bisnis. |
+| **Kualitas Terjamin** | Setiap produk melewati tahapan *Quality Assurance* yang ketat. |
+| **Kolaboratif** | Menjadi rekan tim dan mitra strategis Anda, bukan sekadar vendor. |
 
-* **Akseleratif:** Proses pengerjaan yang lincah (agile) dan tepat waktu untuk mempercepat pertumbuhan bisnis Anda.
+---
 
-* **Kualitas Terjamin:** Setiap produk melewati tahapan *Quality Assurance* yang ketat.
+## 🤝 Hubungi & Temukan Kami
 
-* **Kolaboratif:** Kami memposisikan diri sebagai rekan tim Anda, bukan sekadar vendor.
+Mari diskusikan ide inovatif Anda bersama kami. Kami siap membantu Anda meraih akselerasi bisnis melalui teknologi.
 
-## 📞 Hubungi & Temukan Kami
+<div align="center">
 
-Mari diskusikan ide inovatif Anda bersama kami. Kami siap membantu Anda meraih akselerasi bisnis!
+  **WIRA DIGITAL SOLUTIONS**
 
-**Wira Digital Solutions**
+  <a href="https://wiradigitalsolutions.my.id">
+    <img src="https://img.shields.io/badge/Website-14243D?style=for-the-badge&logo=googlechrome&logoColor=93C5FD" alt="Website" />
+  </a>
+  <a href="mailto:wiradigitalsolutions@gmail.com">
+    <img src="https://img.shields.io/badge/Email-14243D?style=for-the-badge&logo=gmail&logoColor=93C5FD" alt="Email" />
+  </a>
+  <a href="https://instagram.com/wiradigitalsolutions">
+    <img src="https://img.shields.io/badge/Instagram-14243D?style=for-the-badge&logo=instagram&logoColor=93C5FD" alt="Instagram" />
+  </a>
+  <a href="https://github.com/wiradigitalsolutions">
+    <img src="https://img.shields.io/badge/GitHub-14243D?style=for-the-badge&logo=github&logoColor=93C5FD" alt="GitHub" />
+  </a>
 
-* 🌐 **Website:** [wiradigitalsolutions.my.id](https://wiradigitalsolutions.my.id)
+  <br />
 
-* 📧 **Email:** [wiradigitalsolutions@gmail.com](mailto:wiradigitalsolutions@gmail.com)
+  **KENALI FOUNDER KAMI**
 
-* 📸 **Instagram:** [@wiradigitalsolutions](https://instagram.com/wiradigitalsolutions)
+  <a href="https://instagram.com/teguhdevs">
+    <img src="https://img.shields.io/badge/Instagram-14243D?style=for-the-badge&logo=instagram&logoColor=93C5FD" alt="Founder Instagram" />
+  </a>
+  <a href="https://github.com/AnteikuDevs">
+    <img src="https://img.shields.io/badge/GitHub-14243D?style=for-the-badge&logo=github&logoColor=93C5FD" alt="Founder GitHub" />
+  </a>
 
-* 💻 **GitHub:** [@wiradigitalsolutions](https://github.com/wiradigitalsolutions)
+  <br /><br />
 
-**Kenali Founder Kami**
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A5F,50:14243D,100:080D18&height=3&section=footer" width="100%" />
 
-* 📸 **Instagram:** [@teguhdevs](https://instagram.com/teguhdevs)
+  <sub>© 2026 <strong>Wira Digital Solutions</strong>. All Rights Reserved.</sub>
 
-* 💻 **GitHub:** [@AnteikuDevs](https://github.com/AnteikuDevs)
+  <br />
+  <sub><i>Building Digital Solutions. Accelerating Possibilities.</i></sub>
 
-*© 2026 Wira Digital Solutions. All Rights Reserved.*
+</div>
